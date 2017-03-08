@@ -1,0 +1,10 @@
+#filter eclipse config files
+.idea
+.settings
+.project
+target
+bin
+*.iml
+*.classpath
+*.project
+*.class
